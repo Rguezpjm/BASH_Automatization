@@ -38,7 +38,11 @@ To use the PowerShell scripts in this repository, follow these steps:
 
 ## Contributing
 
-*(Aquí puedes agregar información sobre cómo otros pueden contribuir al repositorio.)*
+You can contribute to this repository in several ways:
+
+*   **Star the repository:** Show your support by giving it a star! ⭐
+*   **Buy me a coffee:** If you find this repository helpful, you can buy me a coffee! ☕ (Aquí puedes poner un link a una plataforma como Buy Me a Coffee o Ko-fi)
+*   **Support via Ad.fly:** Support the project by clicking on the Ad.fly link below!  (Aquí debes poner el link de Ad.fly)
 
 ## Follower Count
 
@@ -46,4 +50,25 @@ To use the PowerShell scripts in this repository, follow these steps:
 
 ## License
 
-*(Puedes agregar una licencia como MIT, GPL, etc.)*
+
+MIT License
+
+Copyright (c) [Año] [Tu Nombre o Nombre de la Organización]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
